@@ -1,0 +1,13 @@
+{
+    "en-US": {
+        "servers": [
+            "http://127.0.0.1:8083/v1"
+        ],
+        "api_key": "local_embedding",
+        "doc_chunk_size": 500,
+        "doc_chunk_overlap": 0,
+        "qna_chunk_size": 500,
+        "qna_chunk_overlap": 0,
+        "batch_size": 32
+    }
+}

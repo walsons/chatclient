@@ -1,0 +1,15 @@
+{
+    "en-US": {
+        "servers": [
+            "http://127.0.0.1:8082/v1"
+        ],
+        "api_key": "local_llm",
+        "model": "llama3.1:8b-instruct-q4_K_M",
+        "context": 16384,
+        "chunck_size": 8192,
+        "generation_size": 4096,
+        "regenerate_tags": false,
+        "qa_temperature":0.8,
+        "workers":8
+    }
+}
